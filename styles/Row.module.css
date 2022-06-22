@@ -1,0 +1,9 @@
+.Row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 3;
+  width: 100%;
+}

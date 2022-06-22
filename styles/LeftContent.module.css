@@ -1,0 +1,8 @@
+.Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-shrink: 3;
+  width: 100%;
+  background-color: darkmagenta;
+}

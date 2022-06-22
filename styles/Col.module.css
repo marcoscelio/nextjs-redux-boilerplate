@@ -1,0 +1,7 @@
+.Col {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  flex-shrink: 3;
+  width: 100%;
+}

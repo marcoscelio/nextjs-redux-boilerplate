@@ -1,0 +1,37 @@
+.Container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-shrink: 3;
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.Content {
+  display: grid;
+  grid-template-columns: 30% 3fr 1fr;
+}
+
+.LeftContent {
+  display: flex;
+}
+
+.RightContent {
+  display: flex;
+}
+
+.MainContent {
+  display: flex;
+}
+
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.Header {
+  display: flex;
+  width: 100%;
+}

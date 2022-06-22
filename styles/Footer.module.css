@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  gap: 3rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: gold;
+  width: max-content;
+}
+
+.socialMediaContainer {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-around;
+}
+
+.footerSubItemTitle {
+  font-weight: bolder;
+  font-size: medium;
+}
+
+.footerSubItem {
+  flex: auto;
+  margin: 2rem;
+}
